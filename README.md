@@ -23,6 +23,7 @@ This page is designed to be a **clean, lightweight, and mobile-friendly** websit
    ```bash
    git clone https://github.com/MrDeathFox/minecraft-server-webpage.git
    ```
+   or Download the Latest Release
 
 2. **Open `index.html` in your browser** — No server setup required.
 
@@ -64,5 +65,5 @@ This project is open-source and free to use under the [MIT License](LICENSE). At
 
 ## ✏️ Author
 
-Created with ❤️ by [MrDeathFox]  
+Created with ❤️ by [MrDeathFox](https://github.com/MrDeathFox)
 Feel free to fork and customize it for your own server!
