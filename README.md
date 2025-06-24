@@ -28,7 +28,7 @@ This page is designed to be a **clean, lightweight, and mobile-friendly** websit
 2. **Open `index.html` in your browser** — No server setup required.
 
 3. **Customize it**:
-   - Replace `play.examplemc.net` with your actual server IP
+   - Replace `play.examplemc.net` in script.js with your actual server IP
    - Update the `assets/bg1.jpg` with your custom background
    - Edit text, links, and staff info in `index.html`
    - Add your own `favicon.ico` in `assets/` (optional)
